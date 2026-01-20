@@ -31,6 +31,8 @@ This lab will guide you through a step-by-step process of deploying a Windows Se
 
 - <b>OS = Operating System </b> </br>
 
+- <b>OU(s) = Organizational Unit(s)</b> </br>
+
 - <b>VM = Virtual Machine</b> </br>
 
 - <b>AD = Active Directory</b> </br>
