@@ -111,7 +111,7 @@ This lab will guide you through a step-by-step process of deploying a Windows Se
 <p align="center">
 8. Under Domain Controller Options, input a Password you can remember, leave the other settings as is, and click on Next: <br />
   <br/>
-<img src="https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/Zwelakhe-Y-How-to-Setup-AD-Batch-1/8.%20Review%20and%20Create%20the%20DC%20virtual%20machine.png" height="80%" width="80%"/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
 </p>
@@ -158,7 +158,7 @@ This lab will guide you through a step-by-step process of deploying a Windows Se
 <p align="center">
 13. Click on Advanced System settings, which will open a pop-up window. From there, go to Computer Name and click on Change: <br />
   <br/>
-<img src="https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/Zwelakhe-Y-How-to-Setup-AD-Batch-1/13SETT~1.PNG" height="80%" width="80%"/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
 </p>
