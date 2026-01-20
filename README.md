@@ -313,7 +313,7 @@ This lab will guide you through a step-by-step process of deploying a Windows Se
 
 
 <p align="center">
-<b> And you're done, you have now successfully deployed Active Directory Domain Services + Domain Controller and created new users and Organizational Units within ADUC. Don't forget to disable/stop your virtual machine on Azure once done(remember you pay as you use): </b>  <br/>
+<b> And you're done, you have now successfully deployed Active Directory Domain Services + Domain Controller and created a new user and Organizational Units within ADUC. Don't forget to disable/stop your virtual machine on Azure once done(remember you pay as you use): </b>  <br/>
 </p>
 
 <!--
