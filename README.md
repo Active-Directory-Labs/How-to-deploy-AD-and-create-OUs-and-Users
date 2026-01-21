@@ -11,8 +11,8 @@ This lab will guide you through a step-by-step process of deploying a Windows Se
 <h2>Utilities Used</h2>
 
 - <b>Azure</b>
-- <b>Powershell</b> 
 - <b>Active Directory</b>
+    - ADUC
 
 <h2>Environments Used </h2>
 
